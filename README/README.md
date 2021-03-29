@@ -22,16 +22,16 @@ w\:* {behavior:url(#default#VML);}
  <o:DocumentProperties>
   <o:Author>Leonardo De Souza Paraguassu</o:Author>
   <o:LastAuthor>Leonardo De Souza Paraguassu</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>57</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>58</o:TotalTime>
   <o:Created>2021-03-29T18:55:00Z</o:Created>
-  <o:LastSaved>2021-03-29T18:55:00Z</o:LastSaved>
-  <o:Pages>3</o:Pages>
-  <o:Words>286</o:Words>
-  <o:Characters>1545</o:Characters>
-  <o:Lines>12</o:Lines>
-  <o:Paragraphs>3</o:Paragraphs>
-  <o:CharactersWithSpaces>1828</o:CharactersWithSpaces>
+  <o:LastSaved>2021-03-29T20:08:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>454</o:Words>
+  <o:Characters>2457</o:Characters>
+  <o:Lines>20</o:Lines>
+  <o:Paragraphs>5</o:Paragraphs>
+  <o:CharactersWithSpaces>2906</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -43,7 +43,6 @@ w\:* {behavior:url(#default#VML);}
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
   <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:HyphenationZone>21</w:HyphenationZone>
@@ -67,6 +66,7 @@ w\:* {behavior:url(#default#VML);}
    <w:DontFlipMirrorIndents/>
    <w:OverrideTableStyleHps/>
   </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
   <m:mathPr>
    <m:mathFont m:val="Cambria Math"/>
    <m:brkBin m:val="before"/>
@@ -700,7 +700,7 @@ w\:* {behavior:url(#default#VML);}
 	margin-right:0cm;
 	margin-bottom:8.0pt;
 	margin-left:0cm;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -713,6 +713,24 @@ w\:* {behavior:url(#default#VML);}
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
+p.MsoTitle, li.MsoTitle, div.MsoTitle
+	{mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Título Char";
+	mso-style-next:Normal;
+	margin-top:24.0pt;
+	margin-right:0cm;
+	margin-bottom:6.0pt;
+	margin-left:0cm;
+	line-height:115%;
+	mso-pagination:widow-orphan lines-together;
+	page-break-after:avoid;
+	font-size:36.0pt;
+	font-family:"Arial",sans-serif;
+	mso-fareast-font-family:Arial;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
 p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	{mso-style-priority:34;
 	mso-style-unhide:no;
@@ -722,7 +740,7 @@ p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
 	margin-bottom:8.0pt;
 	margin-left:36.0pt;
 	mso-add-space:auto;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -745,7 +763,7 @@ p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphC
 	margin-bottom:0cm;
 	margin-left:36.0pt;
 	mso-add-space:auto;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -768,7 +786,7 @@ p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagrap
 	margin-bottom:0cm;
 	margin-left:36.0pt;
 	mso-add-space:auto;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -791,7 +809,7 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	margin-bottom:8.0pt;
 	margin-left:36.0pt;
 	mso-add-space:auto;
-	line-height:107%;
+	line-height:106%;
 	mso-pagination:widow-orphan;
 	font-size:11.0pt;
 	font-family:"Calibri",sans-serif;
@@ -804,15 +822,43 @@ p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxS
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
+p.msonormal0, li.msonormal0, div.msonormal0
+	{mso-style-name:msonormal;
+	mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0cm;
+	mso-margin-bottom-alt:auto;
+	margin-left:0cm;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman",serif;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:minor-fareast;}
+span.TtuloChar
+	{mso-style-name:"Título Char";
+	mso-style-priority:10;
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:Título;
+	mso-ansi-font-size:36.0pt;
+	mso-bidi-font-size:36.0pt;
+	font-family:"Arial",sans-serif;
+	mso-ascii-font-family:Arial;
+	mso-fareast-font-family:Arial;
+	mso-hansi-font-family:Arial;
+	mso-bidi-font-family:Arial;
+	mso-fareast-language:PT-BR;
+	font-weight:bold;
+	mso-bidi-font-weight:normal;}
 span.SpellE
 	{mso-style-name:"";
 	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -823,10 +869,6 @@ span.GramE
 	mso-bidi-font-family:"Times New Roman";
 	mso-bidi-theme-font:minor-bidi;
 	mso-fareast-language:EN-US;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
 @page WordSection1
 	{size:595.3pt 841.9pt;
 	margin:70.85pt 3.0cm 70.85pt 3.0cm;
@@ -903,6 +945,69 @@ div.WordSection1
 	mso-level-number-position:left;
 	text-indent:-18.0pt;
 	font-family:Wingdings;}
+@list l1
+	{mso-list-id:2027250344;
+	mso-list-template-ids:748464180;}
+@list l1:level1
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level2
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level3
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level4
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level5
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level6
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level7
+	{mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level8
+	{mso-level-number-format:alpha-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:left;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
+@list l1:level9
+	{mso-level-number-format:roman-lower;
+	mso-level-tab-stop:none;
+	mso-level-number-position:right;
+	text-indent:-18.0pt;
+	text-decoration:none;
+	text-underline:none;}
 ol
 	{margin-bottom:0cm;}
 ul
@@ -920,13 +1025,9 @@ ul
 	mso-style-priority:99;
 	mso-style-parent:"";
 	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
+	mso-para-margin:0cm;
 	mso-pagination:widow-orphan;
-	font-size:11.0pt;
+	font-size:10.0pt;
 	font-family:"Calibri",sans-serif;
 	mso-ascii-font-family:Calibri;
 	mso-ascii-theme-font:minor-latin;
@@ -976,23 +1077,23 @@ Roboto;mso-bidi-font-family:Roboto;color:black'>README.md<o:p></o:p></span></p>
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 
-<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo1'><![if !supportLists]><span
+<p class=MsoListParagraphCxSpFirst style='text-indent:-18.0pt;mso-list:l0 level1 lfo2'><![if !supportLists]><span
 style='font-family:Symbol;mso-fareast-font-family:Symbol;mso-bidi-font-family:
 Symbol;color:red'><span style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:Roboto;mso-fareast-font-family:
-Roboto;mso-bidi-font-family:Roboto;color:red'>Importante, foram criadas 2
-versões a que sobe os dados para SQLSERVER <span class=SpellE>normal</span> via
-Python / e a segunda versão que sobe para Azure via BCP <o:p></o:p></span></p>
+Roboto;mso-bidi-font-family:Roboto;color:red'>Importante, foram criadas 2 versões
+a que sobe os dados para SQLSERVER <span class=SpellE>normal</span> via Python
+/ e a segunda versão que sobe para Azure via BCP <o:p></o:p></span></p>
 
 <p class=MsoListParagraphCxSpLast style='margin-left:72.0pt;mso-add-space:auto;
-text-indent:-18.0pt;mso-list:l0 level2 lfo1'><![if !supportLists]><span
+text-indent:-18.0pt;mso-list:l0 level2 lfo2'><![if !supportLists]><span
 style='font-family:"Courier New";mso-fareast-font-family:"Courier New";
 color:black'><span style='mso-list:Ignore'>o<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;
 </span></span></span><![endif]><span style='font-family:Roboto;mso-fareast-font-family:
-Roboto;mso-bidi-font-family:Roboto;color:black'>Criei via BCP para fazer de
-forma ágil, porém existe diversas ferramentas para fazer o mesmo serviço, como
-se tratava de um simples arquivo <span class=SpellE>csv</span> optei por BPC
-encontra-se na Pasta ETL_AZURE <o:p></o:p></span></p>
+Roboto;mso-bidi-font-family:Roboto;color:black'>Criei via BCP para fazer de forma
+ágil, porém existe diversas ferramentas para fazer o mesmo serviço, como se
+tratava de um simples arquivo <span class=SpellE>csv</span> optei por BPC encontra-se
+na Pasta ETL_AZURE <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1002,11 +1103,11 @@ Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
 Roboto;mso-bidi-font-family:Roboto;color:black'>ETL -&gt; Foi criado um <span
-class=SpellE>bcp</span> de carga para o Azure para que entendo que é uma das
-formas mais rápidas para carga de um arquivo <span class=GramE>simples .</span>
-Os mesmos na agenda de caga tem que vir com seu respectivos <span class=SpellE>truncate</span>
-<span class=SpellE>tables</span> ou se for incremental apenas bastar rodar o BCP
-na data.<o:p></o:p></span></p>
+class=SpellE>bcp</span> de carga para o Azure para que entendo que é uma das formas
+mais rápidas para carga de um arquivo simples . Os mesmos na agenda de caga tem
+que vir com seu respectivos <span class=SpellE>truncate</span> <span
+class=SpellE>tables</span> ou se for incremental apenas bastar rodar o BCP na
+data.<o:p></o:p></span></p>
 
 <table class=MsoTableGrid border=1 cellspacing=0 cellpadding=0
  style='border-collapse:collapse;border:none;mso-border-alt:solid windowtext .5pt;
@@ -1016,10 +1117,10 @@ na data.<o:p></o:p></span></p>
   mso-border-alt:solid windowtext .5pt;padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><i><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
-  Roboto;color:black'>BCP bc<span class=GramE>1..</span>Person in
-  C:\RepGit\Roxpartner\Person.Person.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;<o:p></o:p></span></i></p>
+  Roboto;color:black'>BCP bc1..Person in C:\RepGit\Roxpartner\Person.Person.csv
+  -U <span class=SpellE>carga_dw</span> -P cxwA@9wx1 -t&quot;;&quot; <span
+  style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net -c
+  -C&quot;ACP&quot;<o:p></o:p></span></i></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1031,10 +1132,10 @@ na data.<o:p></o:p></span></p>
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
-  Roboto;color:black'>BCP bc<span class=GramE>1..</span>ProductionProduct in
-  C:\EngenharioDados\Production.Product.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;<o:p></o:p></span></p>
+  Roboto;color:black'>BCP bc1..ProductionProduct in C:\EngenharioDados\Production.Product.csv
+  -U <span class=SpellE>carga_dw</span> -P cxwA@9wx1 -t&quot;;&quot; <span
+  style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net -c
+  -C&quot;ACP&quot;<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1046,10 +1147,10 @@ na data.<o:p></o:p></span></p>
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
-  Roboto;color:black'>BCP bc<span class=GramE>1..</span>SalesCustomer in
-  C:\EngenharioDados\Sales.Customer.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;<o:p></o:p></span></p>
+  Roboto;color:black'>BCP bc1..SalesCustomer in C:\EngenharioDados\Sales.Customer.csv
+  -U <span class=SpellE>carga_dw</span> -P cxwA@9wx1 -t&quot;;&quot; <span
+  style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net -c
+  -C&quot;ACP&quot;<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1061,10 +1162,10 @@ na data.<o:p></o:p></span></p>
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
-  Roboto;color:black'>BCP bc<span class=GramE>1..</span>SalesSalesOrderDetail
-  in C:\EngenharioDados\Sales.SalesOrderDetail.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;<o:p></o:p></span></p>
+  Roboto;color:black'>BCP bc1..SalesSalesOrderDetail in
+  C:\EngenharioDados\Sales.SalesOrderDetail.csv -U <span class=SpellE>carga_dw</span>
+  -P cxwA@9wx1 -t&quot;;&quot; <span style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net
+  -c -C&quot;ACP&quot;<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1076,10 +1177,10 @@ na data.<o:p></o:p></span></p>
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
-  Roboto;color:black'>BCP bc<span class=GramE>1..</span>SalesSalesOrderHeader
-  in C:\EngenharioDados\Sales.SalesOrderHeader.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;<o:p></o:p></span></p>
+  Roboto;color:black'>BCP bc1..SalesSalesOrderHeader in
+  C:\EngenharioDados\Sales.SalesOrderHeader.csv -U <span class=SpellE>carga_dw</span>
+  -P cxwA@9wx1 -t&quot;;&quot; <span style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net
+  -c -C&quot;ACP&quot;<o:p></o:p></span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1090,10 +1191,11 @@ na data.<o:p></o:p></span></p>
   border-top:none;mso-border-top-alt:solid windowtext .5pt;mso-border-alt:solid windowtext .5pt;
   padding:0cm 5.4pt 0cm 5.4pt'>
   <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
-  Roboto;mso-bidi-font-family:Roboto;color:black'>BCP bc<span class=GramE>1..</span>SalesSpecialOfferProduct
-  in C:\EngenharioDados\Sales.SpecialOfferProduct.csv -U <span class=SpellE>carga_dw</span>
-  -P cxwA@9wx1 -t&quot;;&quot;<span style='mso-spacerun:yes'>  </span>-S
-  tcp:servidorleo1.database.windows.net -c -C&quot;ACP&quot;</span><o:p></o:p></p>
+  Roboto;mso-bidi-font-family:Roboto;color:black'>BCP
+  bc1..SalesSpecialOfferProduct in C:\EngenharioDados\Sales.SpecialOfferProduct.csv
+  -U <span class=SpellE>carga_dw</span> -P cxwA@9wx1 -t&quot;;&quot; <span
+  style='mso-spacerun:yes'> </span>-S tcp:servidorleo1.database.windows.net -c
+  -C&quot;ACP&quot;</span></p>
   <p class=MsoNormal style='margin-bottom:0cm;line-height:normal'><span
   style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
   Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1108,8 +1210,8 @@ Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
-Roboto;mso-bidi-font-family:Roboto;color:black'>Abaixo seguem os relatórios gerados
-em Power Bi: <br>
+Roboto;mso-bidi-font-family:Roboto;color:black'>Abaixo seguem os relatórios
+gerados em Power Bi: <br>
 <br>
 </span><span style='mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype id="_x0000_t75"
  coordsize="21600,21600" o:spt="75" o:preferrelative="t" path="m@4@5l@4@11@9@11@9@5xe"
@@ -1135,7 +1237,7 @@ em Power Bi: <br>
  style='width:425.25pt;height:253.5pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README_arquivos/image001.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=567 height=338
-src="README_arquivos/image002.jpg" v:shapes="Imagem_x0020_1"><![endif]></span><span
+src="README_arquivos/image007.jpg" v:shapes="Imagem_x0020_1"><![endif]></span><span
 style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
 Roboto;color:black'><o:p></o:p></span></p>
 
@@ -1150,7 +1252,7 @@ Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
  height:249.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README_arquivos/image003.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=567 height=333
-src="README_arquivos/image004.jpg" v:shapes="Imagem_x0020_2"><![endif]></span><span
+src="README_arquivos/image008.jpg" v:shapes="Imagem_x0020_2"><![endif]></span><span
 style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
 Roboto;color:black'><o:p></o:p></span></p>
 
@@ -1170,14 +1272,13 @@ Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
-Roboto;mso-bidi-font-family:Roboto;color:black'>Optei também foi gerado relatórios
-para <span class=SpellE>Report</span> Services normalmente as áreas de negócios
-gostão <span class=SpellE>pq</span> podem gerar um arquivo do <span
+Roboto;mso-bidi-font-family:Roboto;color:black'>Optei também foi gerado
+relatórios para <span class=SpellE>Report</span> Services normalmente as áreas
+de negócios gostão <span class=SpellE>pq</span> podem gerar um arquivo do <span
 class=SpellE>excel</span> e fazer seus filtros. <o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
-Roboto;mso-bidi-font-family:Roboto;color:black'>Onde poderia ter publicado na
-web.<o:p></o:p></span></p>
+Roboto;mso-bidi-font-family:Roboto;color:black'>Onde poderia ter publicado na web.<o:p></o:p></span></p>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
@@ -1190,9 +1291,105 @@ Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
  height:324.75pt;visibility:visible;mso-wrap-style:square'>
  <v:imagedata src="README_arquivos/image005.png" o:title=""/>
 </v:shape><![endif]--><![if !vml]><img width=566 height=433
-src="README_arquivos/image006.jpg" v:shapes="Imagem_x0020_3"><![endif]></span><span
+src="README_arquivos/image009.jpg" v:shapes="Imagem_x0020_3"><![endif]></span><span
 style='font-family:Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:
 Roboto;color:black'><o:p></o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
+
+<ol style='margin-top:0cm' start=1 type=1>
+ <li class=MsoNormal style='margin-top:11.25pt;margin-right:.25pt;margin-bottom:
+     0cm;line-height:115%;mso-pagination:none;mso-list:l1 level1 lfo3;
+     border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:
+     yes'><span style='font-family:Roboto;mso-fareast-font-family:Roboto;
+     mso-bidi-font-family:Roboto'>Escreva uma query que retorna a quantidade de
+     linhas na tabela <span class=SpellE>Sales.SalesOrderDetail</span> pelo
+     campo <span class=SpellE>SalesOrderID</span>, desde que tenham pelo menos
+     três linhas de detalhes.</span><span lang=EN-US style='font-family:Roboto;
+     mso-fareast-font-family:Roboto;mso-bidi-font-family:Roboto;mso-ansi-language:
+     EN-US'><o:p></o:p></span></li>
+</ol>
+
+<p class=MsoTitle><span lang=EN-US style='mso-ansi-language:EN-US'>PROC1 <o:p></o:p></span></p>
+
+<ol style='margin-top:0cm' start=2 type=1>
+ <li class=MsoNormal style='margin-right:.25pt;margin-bottom:0cm;line-height:
+     115%;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
+     31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><span style='font-family:
+     Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:Roboto'>Escreva
+     uma query que ligue as tabelas <span class=SpellE>Sales.SalesOrderDetail</span>,
+     <span class=SpellE>Sales.SpecialOfferProduct</span> e <span class=SpellE>Production.Product</span>
+     e retorne os 3 produtos (<span class=SpellE>Name</span>) mais vendidos (pela
+     soma de <span class=SpellE>OrderQty</span>), agrupados pelo número de dias
+     para manufatura (<span class=SpellE>DaysToManufacture</span>).<o:p></o:p></span></li>
+</ol>
+
+<p class=MsoTitle><span lang=EN-US style='mso-ansi-language:EN-US'>PROC2 <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:.25pt;margin-bottom:8.0pt;
+margin-left:36.0pt;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+mso-border-shadow:yes'><span style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto'><o:p>&nbsp;</o:p></span></p>
+
+<ol style='margin-top:0cm' start=3 type=1>
+ <li class=MsoNormal style='margin-right:.25pt;margin-bottom:0cm;line-height:
+     115%;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
+     31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><span style='font-family:
+     Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:Roboto'>Escreva
+     uma query ligando as tabelas <span class=SpellE>Person.Person</span>, <span
+     class=SpellE>Sales.Customer</span> e <span class=SpellE>Sales.SalesOrderHeader</span>
+     de forma a obter uma lista de nomes de clientes e uma contagem de pedidos
+     efetuados.</span><span lang=EN-US style='font-family:Roboto;mso-fareast-font-family:
+     Roboto;mso-bidi-font-family:Roboto;mso-ansi-language:EN-US'><o:p></o:p></span></li>
+</ol>
+
+<p class=MsoTitle><span lang=EN-US style='mso-ansi-language:EN-US'>PROC3 <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:.25pt;margin-bottom:8.0pt;
+margin-left:18.0pt;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+mso-border-shadow:yes'><span lang=EN-US style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto;mso-ansi-language:EN-US'><o:p>&nbsp;</o:p></span></p>
+
+<ol style='margin-top:0cm' start=4 type=1>
+ <li class=MsoNormal style='margin-right:.25pt;margin-bottom:0cm;line-height:
+     115%;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
+     31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><span style='font-family:
+     Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:Roboto'>Escreva
+     uma query usando as tabelas <span class=SpellE>Sales.SalesOrderHeader</span>,
+     <span class=SpellE>Sales.SalesOrderDetail</span> e <span class=SpellE>Production.Product</span>,
+     de forma a obter a soma total de produtos (<span class=SpellE>OrderQty</span>)
+     por <span class=SpellE>ProductID</span> e <span class=SpellE>OrderDate</span>.<o:p></o:p></span></li>
+</ol>
+
+<p class=MsoTitle><span lang=EN-US style='mso-ansi-language:EN-US'>PROC4 <o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-top:0cm;margin-right:.25pt;margin-bottom:8.0pt;
+margin-left:36.0pt;mso-pagination:none;border:none;mso-padding-alt:31.0pt 31.0pt 31.0pt 31.0pt;
+mso-border-shadow:yes'><span style='font-family:Roboto;mso-fareast-font-family:
+Roboto;mso-bidi-font-family:Roboto'><o:p>&nbsp;</o:p></span></p>
+
+<ol style='margin-top:0cm' start=5 type=1>
+ <li class=MsoNormal style='margin-right:.25pt;margin-bottom:0cm;line-height:
+     115%;mso-pagination:none;mso-list:l1 level1 lfo3;border:none;mso-padding-alt:
+     31.0pt 31.0pt 31.0pt 31.0pt;mso-border-shadow:yes'><span style='font-family:
+     Roboto;mso-fareast-font-family:Roboto;mso-bidi-font-family:Roboto'>Escreva
+     uma query mostrando os campos <span class=SpellE>SalesOrderID</span>, <span
+     class=SpellE>OrderDate</span> e <span class=SpellE>TotalDue</span> da
+     tabela <span class=SpellE>Sales.SalesOrderHeader</span>. Obtenha apenas as
+     linhas onde a ordem tenha <br>
+     sido feita durante o mês de setembro/2011 e o total devido esteja acima de
+     1.000. Ordene pelo total devido decrescente.<br style='mso-special-character:
+     line-break'>
+     <![if !supportLineBreakNewLine]><br style='mso-special-character:line-break'>
+     <![endif]><o:p></o:p></span></li>
+</ol>
 
 <p class=MsoNormal><span style='font-family:Roboto;mso-fareast-font-family:
 Roboto;mso-bidi-font-family:Roboto;color:black'><o:p>&nbsp;</o:p></span></p>
